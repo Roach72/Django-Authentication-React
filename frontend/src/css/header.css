@@ -1,0 +1,14 @@
+.header{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    margin:10px 0;
+}
+.header .link{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    cursor: pointer;
+    display: inline-block;
+    padding: 5px;
+}
